@@ -4,8 +4,12 @@ title: Research
 ---
 
 # Research
-Here I explain my research. Then link to papers, google scholar, research gate, etc
-<a href=" https://scholar.google.com/citations?user=N4YZVCgAAAAJ&hl=en&authuser=1">Google Scholar</a>
+Here I explain my research. Then link to papers, google scholar, research gate, etc <br>
+<a href=" https://scholar.google.com/citations?user=N4YZVCgAAAAJ&hl=en&authuser=1">Google Scholar</a> <br>
+<a href=" https://scholar.google.com/citations?user=N4YZVCgAAAAJ&hl=en&authuser=1](https://www.linkedin.com/in/emilylandgren/?isSelfProfile=true">ResearchGate</a><br>
+<a href=" https://scholar.google.com/citations?user=N4YZVCgAAAAJ&hl=en&authuser=1">Google Scholar</a> <br>
+
+
 
 # Conferences 
 At ASEE in 2024, I co-hosted a panel titled 'TITLE'
