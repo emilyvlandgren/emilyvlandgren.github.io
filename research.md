@@ -28,6 +28,16 @@ Motivated by my own experience as a disabled engineering student, my research fo
 <a href="https://doi.org/10.1186/s40594-024-00522-2"></a>
 </li>
 
+<li class="paper-item" data-year="2025">
+<span class="paper-year">2025</span>
+<div class="paper-content">
+<span class="paper-title">A systematic review of differences for disabled students in STEM versus other disciplinary undergraduate settings</span>
+<span class="paper-authors"> A Chasen, M Borrego, E Koolman, <strong>Emily Landgren</strong>, HC Tripp.</span>
+<span class="paper-venue"> Journal of Engineering Education (January 2025).</span>
+</div>
+<a href="https://doi-org.ezproxy.lib.utexas.edu/10.1002/jee.20627"></a>
+</li>
+
 </ul>
   
   
