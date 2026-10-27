@@ -1,0 +1,56 @@
+<style>
+  :root {
+    --pub-accent: #2a58a6;      /* active button + links */
+    --pub-accent-text: #ffffff; /* text on the active button */
+    --pub-line: #dddddd;        /* borders */
+  }
+
+  /* Year filter buttons: one row, scrolls sideways on phones */
+  .filter-controls {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+    overflow-x: auto;
+    padding-bottom: 6px;
+  }
+  .filter-btn {
+    flex: 0 0 auto;
+    font: inherit;
+    font-weight: 600;
+    font-size: .9rem;
+    padding: 10px 16px;
+    border: 1px solid var(--pub-line);
+    border-radius: 999px;
+    background: #f4f4f4;
+    color: #222;
+    cursor: pointer;
+  }
+  .filter-btn:hover { border-color: var(--pub-accent); }
+  .filter-btn.active {
+    background: var(--pub-accent);
+    border-color: var(--pub-accent);
+    color: var(--pub-accent-text);
+  }
+  .filter-btn:focus-visible { outline: 3px solid var(--pub-accent); outline-offset: 2px; }
+
+  /* Paper list */
+  .papers-list { list-style: none; margin: 0; padding: 0; }
+  .paper-item {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--pub-line);
+  }
+  .paper-item[hidden] { display: none; }
+  .paper-year { flex: 0 0 52px; font-weight: 700; opacity: .7; }
+  .paper-content { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .paper-title { font-weight: 600; }
+  .paper-authors, .paper-venue { font-size: .92rem; opacity: .8; }
+  .paper-link { flex: 0 0 auto; font-size: .9rem; font-weight: 600; white-space: nowrap; }
+
+  @media (max-width: 760px) {
+    .paper-item { flex-wrap: wrap; }
+    .paper-year { flex-basis: 100%; }
+  }
+</style>
