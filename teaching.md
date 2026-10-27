@@ -47,11 +47,11 @@ Spring 2023
 ## Invited Talks and Presentations
 
 ### UDL & Disability Access
-Guest Speaker for Teaching Course
+Guest Speaker for Teaching Course <br>
 September 2026 
 ### Making Labs More Inclusive and Accessible
-Panel at Biomedical Engineering Society Meeting, Seattle, WA
+Panel at Biomedical Engineering Society Meeting, Seattle, WA <br>
 October 2023
 ### Teaching for Disability Accommodations in Engineering Classrooms 
-Civil Engineering Graduate Students, University of Texas
+Civil Engineering Graduate Students, University of Texas <br>
 Fall 2022
