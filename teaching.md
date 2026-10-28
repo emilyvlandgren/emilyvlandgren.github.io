@@ -3,7 +3,20 @@ layout: default
 title: Teaching
 ---
 # Teaching
-![alt text](/images/teaching4.jpg)
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h2>My Teaching Philosophy</h2>
+    <p>By creating inclusive environments and building in access, students can be more successful in their courses.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/teaching4.jpg" alt="Emily stands in front of a screen displaying statistics of disability representation in education. She is mid laugh, has her hands out, and appears to be engaging with someone off-screen." style="max-width: 100%;">
+  </div>
+</div>
+
+
+
+
 ## Teaching Philosophy
 
 ### Integrate Humanities and Social Sciences
