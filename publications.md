@@ -2,10 +2,11 @@ layout: default
 title: Publications
 ---
 
-To request an audio version of any publication, please send me an email!
 
 # Publications
-   
+
+To request an audio version of any publication, please send me an email: emilyvlandgren@gmail.com
+ 
 <div class="filter-controls">
 <button class="filter-btn active" data-filter="all">All</button>
 <button class="filter-btn" data-filter="2026">2026</button>
