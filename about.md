@@ -9,7 +9,7 @@ I am a PhD candidate at the University of Texas at Austin. I research disability
 <!-- insert CV-->
 
 ## Education
-M.S. Mechanical Engineering, University of Texas, 2024
+M.S. Mechanical Engineering, University of Texas, 2024 <br>
 B.S. Integrated Engineering and Humanities, Lehigh University, 2021
 
 ## Research 
