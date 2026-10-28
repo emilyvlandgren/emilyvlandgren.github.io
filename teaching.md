@@ -10,7 +10,7 @@ title: Teaching
     <p>By creating integrating other disciplines, creating an inclusive environment, and celebrating diversity, more students can find success and belonging in engineering.</p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/teaching4.jpg" alt="Emily stands in front of a screen displaying statistics of disability representation in education. She is mid laugh, has her hands out, and appears to be engaging with someone off-screen." style="max-width: 100%;">
+    <img src="/images/teaching44.jpg" alt="Emily stands in front of a screen displaying statistics of disability representation in education. She is mid laugh, has her hands out, and appears to be engaging with someone off-screen." style="max-width: 100%;">
   </div>
 </div>
 
