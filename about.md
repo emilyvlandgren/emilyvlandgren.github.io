@@ -6,6 +6,7 @@ title: About
 # About me
 
 I am a PhD candidate at the University of Texas at Austin. I research disability in higher engineering education.
+<!-- insert CV-->
 
 ## Education
 M.S. Mechanical Engineering, University of Texas, 2024
