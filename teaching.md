@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 # Teaching
-
+![alt text](/images/teaching4.jpg)
 ## Teaching Philosophy
 
 ### Integrate Humanities and Social Sciences
