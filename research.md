@@ -19,7 +19,7 @@ Motivated by my own experience as a disabled engineering student, my research fo
 <ul class="papers-list">
 
 <li class="paper-item" data-year="2025">
-<span class="paper-year">2026</span>
+<span class="paper-year">2025</span>
 <div class="paper-content">
 <span class="paper-title">A scoping review on U.S. undergraduate students with disabilities in STEM courses and STEM majors</span>
 <span class="paper-authors"> M Borrego, A Chasen, HC Tripp, <strong>Emily Landgren</strong>, E Koolman.</span>
