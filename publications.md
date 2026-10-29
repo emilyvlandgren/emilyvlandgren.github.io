@@ -17,32 +17,13 @@ If you cannot access or wish to request an audio version of any publication, ple
 
 <ul class="papers-list">
 
-<li class="paper-item" data-year="2025">
-<span class="paper-year">2025</span>
-<div class="paper-content">
-<span class="paper-title">A scoping review on U.S. undergraduate students with disabilities in STEM courses and STEM majors</span>
-<span class="paper-authors">M Borrego, A Chasen, HC Tripp, <strong>EV Landgren</strong>, E Koolman.</span>
-<span class="paper-venue"> Int. Journal STEM Education (January 2025).</span>
-</div>
-<a href="https://doi.org/10.1186/s40594-024-00522-2"></a>
-</li>
-
-<li class="paper-item" data-year="2025">
-<span class="paper-year">2025</span>
-<div class="paper-content">
-<span class="paper-title">A systematic review of differences for disabled students in STEM versus other disciplinary undergraduate settings</span>
-<span class="paper-authors">A Chasen, M Borrego, E Koolman, <strong>E Landgren</strong>, HC Tripp.</span>
-<span class="paper-venue"> Journal of Engineering Education (January 2025).</span>
-</div>
-<a href="https://doi-org.ezproxy.lib.utexas.edu/10.1002/jee.20627"></a>
-</li>
 
 <li class="paper-item" data-year="2026">
 <span class="paper-year">2026</span>
 <div class="paper-content">
 <span class="paper-title">Mentoring Graduate Students with Disabilities: A Qualitative Evidence Synthesis and Review</span>
 <span class="paper-authors">M Borrego, S Cawthorn, A Chasen, LG Alvarez, <strong>E Landgren</strong>, M O’Grady, D Lama, S Aldaco.</span>
-<span class="paper-venue"> Education Sciences (January 2026).</span>
+<span class="paper-venue"> Education Sciences</span>
 </div>
 <a href="https://doi.org/10.3390/educsci16020212"></a>
 </li>
@@ -56,10 +37,31 @@ If you cannot access or wish to request an audio version of any publication, ple
 </div>
 </li>
 
+
 <li class="paper-item" data-year="2025">
 <span class="paper-year">2025</span>
 <div class="paper-content">
-<span class="paper-title">Student-based Recommendations to Increase Accessibility // in Undergraduate Engineering Programs: “If there’s people who can’t access it, then it’s not accessible.”</span>
+<span class="paper-title">A scoping review on U.S. undergraduate students with disabilities in STEM courses and STEM majors</span>
+<span class="paper-authors">M Borrego, A Chasen, HC Tripp, <strong>EV Landgren</strong>, E Koolman.</span>
+<span class="paper-venue">Int. Journal STEM Education</span>
+</div>
+<a href="https://doi.org/10.1186/s40594-024-00522-2"></a>
+</li>
+
+<li class="paper-item" data-year="2025">
+<span class="paper-year">2025</span>
+<div class="paper-content">
+<span class="paper-title">A systematic review of differences for disabled students in STEM versus other disciplinary undergraduate settings</span>
+<span class="paper-authors">A Chasen, M Borrego, E Koolman, <strong>E Landgren</strong>, HC Tripp.</span>
+<span class="paper-venue">Journal of Engineering Education</span>
+</div>
+<a href="https://doi-org.ezproxy.lib.utexas.edu/10.1002/jee.20627"></a>
+</li>
+
+<li class="paper-item" data-year="2025">
+<span class="paper-year">2025</span>
+<div class="paper-content">
+<span class="paper-title">Student-based Recommendations to Increase Accessibility in Undergraduate Engineering Programs: “If there’s people who can’t access it, then it’s not accessible.”</span>
 <span class="paper-authors"><strong>E Landgren</strong>, M Borrego.</span>
 <span class="paper-venue">ASEE Collaborative Network for Engineering & Computing Diversity (CoNECD), San Antonio, Texas, USA (February, 2025).</span>
 </div>
