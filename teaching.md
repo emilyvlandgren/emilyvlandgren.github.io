@@ -7,7 +7,7 @@ title: Teaching
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <h2>There's more to teaching than the content itself!</h2>
-    <p>By creating integrating other disciplines, creating an inclusive environment, and celebrating diversity, more students can find success and belonging in engineering.</p>
+    <p>By integrating other disciplines, creating an inclusive environment, and celebrating diversity, more students can find success and belonging in engineering.</p>
   </div>
   <div style="flex: 1;">
     <img src="/images/teaching44.jpg" alt="Emily stands in front of a screen displaying statistics of disability representation in education. She is mid laugh, has her hands out, and appears to be engaging with someone off-screen." style="max-width: 100%;">
