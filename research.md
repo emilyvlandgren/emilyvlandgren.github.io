@@ -117,6 +117,6 @@ item.style.opacity = '0';
 
 
 # Conferences 
-At ASEE in 2024, I co-hosted a panel titled 'TITLE'
+Most recently, I attended the 2026 ASEE Conference in Charlotte, NC where my co-author and I presented our findings on disabled graduate students' experiences with doctoral milestones.  
 
-![alt text](/images/ASEE24Group.jpg)
+![Emily stands next to a projected screen with her co-author Chloe. The displayed slide features the title of their paper 'Qualifying Exams and Proposals in Science and Engineering: Existing Barriers to Accessibility and Avenues for Change.'](/images/ASEE26a.jpg)
