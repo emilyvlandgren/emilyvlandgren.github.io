@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Emily V Landgren, MS
 description: Welcome to my website where you can lern about my research, teaching and more!
+
+exclude:
+  - about.md
+  - publications.md
